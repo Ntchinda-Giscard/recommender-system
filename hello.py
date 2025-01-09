@@ -1,5 +1,6 @@
+import tensorflow as tf
 def main():
-    print("Hello from recommender-system!")
+    print(f"Hello from recommender-system! {300} ")
 
 
 if __name__ == "__main__":
